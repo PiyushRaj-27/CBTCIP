@@ -8,6 +8,8 @@ This project is based on Java. In this application, Computer picks a random numb
 
 + An executable jar file can be found at `guessthenumber\app\build\libs` folder.
 
++ An executable file can be found at `guessthenumber.exe`.
+
 To execute the Jar file:
 1. Open command prompt in the directory `guessthenumber\app\src\main\java\guessthenumber`.
 2. Execute the jar file using: `java -jar app.jar`.
