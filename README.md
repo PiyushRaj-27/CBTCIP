@@ -14,7 +14,7 @@ To execute the Jar file:
 1. Open command prompt in the directory `guessthenumber\app\build\libs`.
 2. Execute the jar file using: `java -jar app.jar`.
 
-# 2. Bankmanagement application:
+# 2. Bank management application:
 This project is also based on Java. This application provides you an interface for banking. You can add your bank account and use the following functionalities:
 1. Withdraw
 2. Deposite
