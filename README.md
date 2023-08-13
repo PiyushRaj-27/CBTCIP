@@ -11,5 +11,22 @@ This project is based on Java. In this application, Computer picks a random numb
 + An executable file can be found at `guessthenumber.exe`.
 
 To execute the Jar file:
-1. Open command prompt in the directory `guessthenumber\app\src\main\java\guessthenumber`.
+1. Open command prompt in the directory `guessthenumber\app\build\libs`.
 2. Execute the jar file using: `java -jar app.jar`.
+
+# 2. Bankmanagement application:
+This project is also based on Java. This application provides you an interface for banking. You can add your bank account and use the following functionalities:
+1. Withdraw
+2. Deposite
+3. Transfer money
+4. View transaction history
+
++ Source code can be found at `BankManagement\bankmanagement\app\src\main\java\bankmanagement` folder.
+
++ An executable jat file can be found at `BankManagement\bankmanagement\app\build\libs` folder.
+
+To execute the Jar file"
+1. Open command prompt in the directory `BankManagement\bankmanagement\app\build\libs`.
+2. Execute the jar file using: `java -jar app.jar` .
+
+<b>This project uses mysql server to store the information in a database.</b>
